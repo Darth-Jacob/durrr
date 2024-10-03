@@ -133,8 +133,7 @@ input[type="submit"]:hover {
 }
 
 .hover-button {
-    background-color: lightblue;
-    color: black;
+    color: rgb(217, 13, 193);
     padding: 10px 20px;
     border: none;
     cursor: pointer;
