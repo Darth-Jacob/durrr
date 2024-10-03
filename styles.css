@@ -138,6 +138,5 @@ input[type="submit"]:hover {
 }
 
 .hover-button:hover {
-    background-color: darkblue;
     transform: scale(1.2);
 }
