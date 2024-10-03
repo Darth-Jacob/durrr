@@ -133,8 +133,7 @@ input[type="submit"]:hover {
 }
 
 .hover-button {
-    size: 3em;
-    transition: all0 0.3 ease;
+    transition: all 0.5 ease;
 }
 
 .hover-button:hover {
