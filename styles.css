@@ -133,11 +133,10 @@ input[type="submit"]:hover {
 }
 
 .hover-button {
-    cursor: pointer;
+    cursor: crosshair;
     transition: all 0.3s ease;
 }
 
 .hover-button:hover {
-    background-color: #e21111;
     transform: scale(1.2);
 }
