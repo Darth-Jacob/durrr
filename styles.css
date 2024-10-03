@@ -137,5 +137,5 @@ input[type="submit"]:hover {
 }
 
 .hover-button:hover {
-    transform: scale(5.10);
+    transform: scale(1.5);
 }
