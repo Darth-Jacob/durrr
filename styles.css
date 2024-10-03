@@ -132,10 +132,14 @@ input[type="submit"]:hover {
     background-color: #218838;
 }
 
+.button {
+    size: 3em;
+}
+
 .hover-button {
     transition: all0 0.3 ease;
 }
 
 .hover-button:hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
