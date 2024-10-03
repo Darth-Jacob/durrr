@@ -133,15 +133,11 @@ input[type="submit"]:hover {
 }
 
 .hover-button {
-    color: rgb(217, 13, 193);
-    padding: 10px 20px;
-    border: none;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .hover-button:hover {
     background-color: darkblue;
-    color: white;
     transform: scale(1.2);
 }
